@@ -48,7 +48,7 @@
 
 Семинар 5
 ---------
-Запись: 
+Запись: https://www.youtube.com/watch?v=1p4TF5XVByE
 
 **lab5_avltree.cpp**
 
